@@ -52,10 +52,6 @@ topics:
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
 
-  - name: C#
-    web_url: https://github.com/topics/c-sharp
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
-
   - name: Java
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
@@ -70,10 +66,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
 
-  - name: C
-    web_url: https://github.com/topics/c
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
+  - name: C++
+    web_url: https://github.com/topics/cplusplus
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/cplusplus/cplusplus.png
 
-
-
-theme: jekyll-theme-cayman
