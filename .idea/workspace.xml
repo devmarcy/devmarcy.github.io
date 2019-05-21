@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9edad2f3-0c28-4b90-9868-c8ceae592cf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/interests.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/interests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="74" column="115" selection-start-line="74" selection-start-column="115" selection-end-line="74" selection-end-column="115" />
+            <state relative-caret-position="442">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -119,12 +116,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558459943803</updated>
       <workItem from="1558459948084" duration="8000" />
-      <workItem from="1558461219954" duration="4797000" />
+      <workItem from="1558461219954" duration="5149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4805000" />
+    <option name="totallyTimeSpent" value="5157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="247" y="23" width="1033" height="732" extended-state="0" />
@@ -250,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="74" column="115" selection-start-line="74" selection-start-column="115" selection-end-line="74" selection-end-column="115" />
+        <state relative-caret-position="442">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>
