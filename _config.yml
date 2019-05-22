@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    - devmarcy.github.io
+      #-repo name
 
 social_media:
   # behance: your_username
